@@ -1,0 +1,21 @@
+[submodule "K-means"]
+	path = K-means
+	url = https://github.com/Gloria050/K-means.git
+[submodule "Yelp"]
+	path = Yelp
+	url = https://github.com/Gloria050/Yelp.git
+[submodule "Echoplus-customer-segmentation"]
+	path = Echoplus-customer-segmentation
+	url = https://github.com/Gloria050/Echoplus-customer-segmentation-.git
+[submodule "harmbench01"]
+	path = harmbench01
+	url = https://github.com/Gloria050/harmbench01.git
+[submodule "tableau"]
+	path = tableau
+	url = https://github.com/Gloria050/tableau.git
+[submodule "A-B-testing"]
+	path = A-B-testing
+	url = https://github.com/Gloria050/A-B-testing.git
+[submodule "U.S.-Medicaid-Intelligence-Application"]
+	path = U.S.-Medicaid-Intelligence-Application
+	url = https://github.com/Gloria050/U.S.-Medicaid-Intelligence-Application.git
