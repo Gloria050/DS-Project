@@ -1,6 +1,6 @@
 # Project Overview — Behavior-Driven LTV Modeling
 
-This project was completed as part of the University of Washington’s MSBA Capstone in partnership with Paylocity, a B2B SaaS company that provides cloud-based HR and payroll solutions. Final presentation delivered to Paylocity’s Data Science and Marketing team in June 2025.
+This project was completed a B2B SaaS company that provides cloud-based HR and payroll solutions. Final presentation delivered to Paylocity’s Data Science and Marketing team in June 2025.
 
 Our goal was to **build an actionable Customer Lifetime Value (LTV) model** based on real billing and product data. We aimed not only to estimate LTV at the individual client level but also to enable **strategic client segmentation and ROI measurement** to support sales prioritization, retention efforts, and long-term growth planning.
 
