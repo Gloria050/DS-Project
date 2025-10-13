@@ -1,4 +1,4 @@
-# Empowering User Experience - Optimizing Product Recommendations through AB Testing
+# Empowering User Experience - Optimizing Product Recommendations through A/B Testing
 
 
 <p>
